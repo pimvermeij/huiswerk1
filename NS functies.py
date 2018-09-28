@@ -24,3 +24,4 @@ if weekendrit == "ja":
 elif weekendrit == "nee":
     weekendrit = False
 ritprijs(leeftijd, weekendrit, afstandKM)
+print("hallo")
